@@ -1,4 +1,4 @@
 # priyanshujaiswalku-demo
-This is my second Git Repository.
+This is my first Git Repository.
 <br>
 Author: Priyanshu kumar
